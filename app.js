@@ -1,8 +1,15 @@
-// import functions and grab DOM elements
+console.log('Hello World'); 
+console.log(1 + 2); 
 
-// initialize global state
+let nums = [1, 2, 3, 4];
+let names = ['Libbi', 'phoenix', 'miklo'];
+let mixed = [1, 'Libbi', 2, 'miklo'];
+console.log(nums);
+console.log(names);
+console.log(mixed);
 
-// set event listeners 
-  // get user input
-  // use user input to update state 
-  // update DOM to reflect the new state
+let colors = ['red', 'white', 'blue'];
+console.log(colors[0]);
+
+const theColorBlue = colors[2];
+console.log(theColorBlue);
