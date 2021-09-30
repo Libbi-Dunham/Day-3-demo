@@ -1,3 +1,4 @@
+// -arrays
 console.log('Hello World'); 
 console.log(1 + 2); 
 
@@ -13,3 +14,4 @@ console.log(colors[0]);
 
 const theColorBlue = colors[2];
 console.log(theColorBlue);
+
